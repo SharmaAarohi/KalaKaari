@@ -36,9 +36,8 @@ const ProductDisplay = (props) => {
             <div className="productdisplay-right-price-new">${product.new_price}</div>
         </div>
         <div className="productdisplay-right-description">
-        A lightweight, usually knitted, pullover shirt, close-fitting and with
-          a round neckline and short sleeves, worn as an undershirt or outer
-          garment.
+        The cloth is handspun and has a distinctive texture due to small weaving errors.
+        Khadi is a versatile fabric that is cool in the summer and warm in the winter.
         </div>
         <div className="productdisplay-right-size">
             <h1>Select Size</h1>
@@ -51,7 +50,7 @@ const ProductDisplay = (props) => {
             </div>
         </div>
         <button onClick={()=>{addToCart(product.id)}}>ADD TO CART</button>
-        <p className='productdisplay-right-category'><span>Category :</span>Women , T-Shirt, Crop Top</p>
+        <p className='productdisplay-right-category'><span>Category :</span>Clothing , Khadi, Sari</p>
         <p className='productdisplay-right-category'><span>Tags :</span>Modern, Latest</p>
       </div>
     </div>

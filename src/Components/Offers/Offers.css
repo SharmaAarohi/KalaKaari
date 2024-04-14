@@ -7,9 +7,8 @@
     justify-content: space-between;
     padding: 0px 8%;
     margin-bottom: 150px;
-    background: linear-gradient(180deg, #fde1ff 0%,#e1ffea22 60%);;
+    background: linear-gradient(180deg, #FFDB58, #8A0707);
 }
-
 .offers-left h1{
     color: #171717;
     font-size: 60px;

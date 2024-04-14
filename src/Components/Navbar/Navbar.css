@@ -11,6 +11,11 @@
     gap: 10px;
 }
 
+.nav-logo img{
+    width: 35px;
+    height: 50px;
+}
+
 .nav-logo p{
     color: #171717;
     font-size: 38px;

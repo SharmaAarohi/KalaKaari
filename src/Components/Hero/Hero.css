@@ -1,11 +1,12 @@
-.hero{
+.hero {
     min-height: 100vh;
-    background:  linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+    background: linear-gradient(180deg, #FFDB58, #8A0707);
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 10px 9%;
 }
+
 .hero-left{
     line-height: 1.1;
 }
@@ -19,11 +20,11 @@
     font-size: 80px;   
     font-weight: 700;
 }
-.hero-hand-icon{
+/*.hero-hand-icon{
     display: flex;
     align-items: center;
     gap: 20px;
-}
+}*/
 .hero-hand-icon img{
     width: 70px;
 }
